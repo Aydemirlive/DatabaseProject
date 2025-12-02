@@ -79,5 +79,3 @@ Tüm işlevler yorum satırları ile açıklanmıştır.
 📂 Dosya İçeriği
 
 .sql dosyası: Veritabanı tabloları, fonksiyonlar, triggerlar, stored procedure’ler, view’lar ve örnek veriler
-
-ERD.png veya ERD.pdf: DrawSQL diyagramı
